@@ -1,0 +1,46 @@
+body {
+	background-color: #E6B54A;
+	/*background: linear-gradient(-270deg, #ECE874, #EE9EB3);*/
+	/*margin-top: 15%;*/
+}
+h1 {
+	color: #B81F46;
+	font-family: "Grand Hotel", Arial, sans-serif;
+	/*margin: 20px 0;*/
+}
+h2 {
+	color: #B81F46;
+	font-family: "Grand Hotel", Arial, sans-serif;
+	font-size: 2em;
+}
+nav {
+	background-color: white;
+	text-align: center;
+	box-shadow: 3px 3px 5px #996633;
+}
+
+.boxlist {
+	background-color: white;
+	border-radius: 10px;
+	margin: 0 auto;
+	padding: 10%;
+	width: 80%;
+}
+
+#inputBox {
+	resize: none;
+	width: 100%;
+}
+
+#tweets {
+	margin-top: 40px;
+}
+​
+#textTweets .tweet {
+	box-sizing: border-box;
+	background-color: red;
+	padding: 10px;
+	width: 300px;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+}
